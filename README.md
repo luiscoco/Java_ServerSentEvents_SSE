@@ -128,6 +128,34 @@ We load the dependencies and libraries in the pom.xml file, in this case we only
 
 ## 3. Input the code for the Client application
 
+We create the client HTML file inside this path: /src/main/resources/static/sse.test.html
+
+```html
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SSE Test</title>
+</head>
+
+<body>
+    <h1>Server-Sent Events Test</h1>
+    <div id="messages"></div>
+    <script>
+        // Note: If your SSE endpoint is "/sse", you don't need to specify the full URL here,
+        // just use the path since this HTML is served by the same Spring Boot application.
+        var eventSource = new EventSource("/sse");
+        eventSource.onmessage = function (event) {
+            var messages = document.getElementById("messages");
+            var message = document.createElement("p");
+            message.textContent = "Message: " + event.data;
+            messages.appendChild(message);
+        };
+    </script>
+</body>
+
+</html>
+```
 
 ## 4. Run and Test the application
 
