@@ -226,5 +226,16 @@ We navigate to the application URL: **http://localhost:8080/sse**
 
 ![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/2752044b-6343-4e3e-8a70-24ad1b446c7f)
 
+## 4. References
 
+What is Server-Sent Events (SSE) and how to implement it?:
 
+https://medium.com/deliveryherotechhub/what-is-server-sent-events-sse-and-how-to-implement-it-904938bffd73
+
+How to Use It in Java Spring Boot?:
+
+https://medium.com/codimis/what-is-server-sent-event-sse-and-how-to-use-it-in-java-spring-boot-7f4ffa828882
+
+Chapter 17. Server-Sent Events (SSE) Support:
+
+https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/sse.html
