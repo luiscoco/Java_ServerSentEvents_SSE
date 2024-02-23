@@ -36,7 +36,31 @@ We select the Group Id
 
 We input the Artifact Id for your project
 
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/e553b68d-67c1-4cde-b371-384121e1a3d1)
 
+We set the packing type JAR
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/9f1a0bb8-5770-487b-8f6f-f91bec0420a7)
+
+We select the Java version 21
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/bdf2f10f-ec2d-4a90-b8fc-8153d0c18aad)
+
+We select the project dependency **Spring Web** and we press enter
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/b5cc63ac-5668-45a4-961e-bad43d0dc740)
+
+We select the project folder
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/d38e23a9-5df6-4b76-a868-ec6bca2d40d9)
+
+We open the solution in another VSCode instance
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/8a3b5fa9-6b62-4465-a8a9-52bced1c5d44)
+
+This is the default project structure
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/3b820720-a757-4c56-9cf1-73682bca9244)
 
 ## 2. Input the code for the Server application
 
