@@ -12,6 +12,24 @@ SSEs are the best options when the server generates the data in a loop and sends
 
 ## 1. Create the Spring Boot application with VSCode
 
+We create the application folder and we open it with VSCode
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/7be63248-4ac9-4f15-9a7b-6de1c22cdb02)
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/23e02c30-278a-4849-9f6c-0d2d2d108656)
+
+We press **Ctrl+Shift+P** for invoking the SpringBoot Initializaer
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/ba10aee0-3a13-44d4-84c6-a52bd7a898a9)
+
+We select the version
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/f086af8c-22c5-4710-9099-7e874df4ed18)
+
+We select the language
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/debc492f-8f37-4814-a338-36c53a7fb670)
+
 
 ## 2. Input the code for the Server application
 
