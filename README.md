@@ -15,6 +15,12 @@ SSEs are the best options when the server generates the data in a loop and sends
 
 ## 2. Input the code for the Server application
 
+This is the projec folder and files structure
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/63573345-e66a-454c-afcf-27dee28e4512)
+
+We firt should input the application main code
+
 **SsedemoApplication.java**
 
 ```java
