@@ -1,5 +1,7 @@
 # Java Server Sent Events (SSE)
 
+See the source code for this sample in this github repo: https://github.com/luiscoco/Java_ServerSentEvents_SSE
+
 Server-Sent Events (SSE) is a technology that allows a server to push real-time updates to a client over a single, long-lived HTTP connection
 
 Sever Sent Events (SSEs), a connection where a client establishes a steady and long-term connection with the server
