@@ -30,6 +30,13 @@ We select the language
 
 ![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/debc492f-8f37-4814-a338-36c53a7fb670)
 
+We select the Group Id
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/f13e11fc-4554-4acf-b9d5-e5c22ea60d6c)
+
+We input the Artifact Id for your project
+
+
 
 ## 2. Input the code for the Server application
 
