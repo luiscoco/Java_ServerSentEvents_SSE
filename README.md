@@ -159,5 +159,19 @@ We create the client HTML file inside this path: /src/main/resources/static/sse.
 
 ## 4. Run and Test the application
 
+We press the SpringBoot button in the left hand side menu
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/1b078c80-05c6-4a00-b65d-e6fa064d485a)
+
+We press the run button to start the application
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/6ca1431b-eaf6-42ed-a206-7d5c15d71eb6)
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/9ae6f5bb-e472-4574-973f-2d11854fe64e)
+
+We navigate to the application URL: **http://localhost:8080/sse**
+
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/2752044b-6343-4e3e-8a70-24ad1b446c7f)
+
 
 
