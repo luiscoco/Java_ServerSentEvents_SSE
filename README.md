@@ -12,6 +12,8 @@ A client just uses regular HTTP to make requests and wait for a response
 
 SSEs are the best options when the server generates the data in a loop and sends multiple events to the clients and if we need real-time traffic from the server to the client
 
+![image](https://github.com/luiscoco/Java_ServerSentEvents_SSE/assets/32194879/c83f1647-1f47-4097-a3b8-d53816914328)
+
 ## 1. Create the Spring Boot application with VSCode
 
 We create the application folder and we open it with VSCode
